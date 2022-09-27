@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "location": "Rudokfliez",
+          "latitude": "52.499967",
+          "longitude": "13.4632702",
+          "description": "Waikiki Historic Trail marker shaped like a surfboard with a porcelain enamel metal sign attached. Located in Don Ho Park at Kalakaua Avenue and Beachwalk.",
+          "thumb": null,
+          "credit": "City and County of Honolulu Purchase",
+          "objectid": "1999.08.01",
+          "creator": "Charles Palumbo",
+          "imagefile": "http://hiculturearts.pastperfect-online.com/34250images/003/19990807.JPG",
+          "title": "Test1",
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.4632702,
+            52.499967
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "location": "Test 3",
+          "latitude": "52.503166",
+          "description": "Waikiki Historic Trail marker shaped like a surfboard with a porcelain enamel metal sign attached. Located in Don Ho Park at Kalakaua Avenue and Beachwalk.",
+          "thumb": null,
+          "credit": "City and County of Honolulu Purchase",
+          "objectid": "1999.08.03",
+          "creator": "Charles Palumbo",
+          "longitude": "13.4671454",
+          "imagefile": "http://hiculturearts.pastperfect-online.com/34250images/003/19990807.JPG",
+          "date": "1999",
+          "discipline": "Sign",
+          "title": "Test2",
+          "access": "Full"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.4671454,
+            52.503166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "location": "Test 2",
+          "latitude": "52.50594",
+          "longitude": "13.46608",
+          "description": "Waikiki Historic Trail marker shaped like a surfboard with a porcelain enamel metal sign attached. Located in Don Ho Park at Kalakaua Avenue and Beachwalk.",
+          "thumb": null,
+          "credit": "City and County of Honolulu Purchase",
+          "objectid": "1999.08.02",
+          "creator": "Charles Palumbo",
+          "imagefile": "http://hiculturearts.pastperfect-online.com/34250images/003/19990807.JPG",
+          "title": "Test3"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.46608,
+            52.50594
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "location": "Test 4",
+          "latitude": "52.5023124",
+          "description": "Waikiki Historic Trail marker shaped like a surfboard with a porcelain enamel metal sign attached. Located in Don Ho Park at Kalakaua Avenue and Beachwalk.",
+          "thumb": null,
+          "credit": "City and County of Honolulu Purchase",
+          "objectid": "1999.08.04",
+          "creator": "Charles Palumbo",
+          "longitude": "13.4559273",
+          "imagefile": "http://hiculturearts.pastperfect-online.com/34250images/003/19990807.JPG",
+          "date": "1999",
+          "discipline": "Sign",
+          "title": "Test4",
+          "access": "Full"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.4559273,
+            52.5023124
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "location": "Rider",
+          "latitude": "52.493552",
+          "description": "Waikiki Historic Trail marker shaped like a surfboard with a porcelain enamel metal sign attached. Located in Don Ho Park at Kalakaua Avenue and Beachwalk.",
+          "thumb": null,
+          "credit": "City and County of Honolulu Purchase",
+          "objectid": "1999.08.05",
+          "creator": "Charles Palumbo",
+          "longitude": "13.4621654",
+          "imagefile": "http://hiculturearts.pastperfect-online.com/34250images/003/19990807.JPG",
+          "date": "1999",
+          "discipline": "Sign",
+          "title": "Rider",
+          "access": "Full"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.4621654,
+            52.493552
+          ]
+        }
+      }
+  ]
+}
+
